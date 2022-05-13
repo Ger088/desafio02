@@ -1,0 +1,76 @@
+/* ESTILOS INDEX */
+.texto-alineado {
+    text-align: center;
+}
+
+.main {
+    background-image: url(../imagen/pets_child_02.jpg);
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+}
+
+.fondo-main{
+    background-color: rgb(255, 255, 255, 0.1)
+}
+
+.aumento-linea {
+    line-height: 200%;
+    font-size: 18px;
+}
+
+.margen-index {
+    margin-top: 50px;
+}
+
+.oscuro {
+    font-weight: bolder;
+}
+
+.letras-rojas {
+    color: red;
+    font-weight: bolder;
+    font-size: larger;
+}
+
+.contacto-margen {
+    margin-top: 50px;
+}
+
+.pie-letras {
+    font-size: 16px;
+    font-weight: bolder;
+}
+
+/* NOSOTROS */
+
+.margen-arriba {
+    margin-top: 20px;
+}
+
+.aum-linea {
+    line-height: 200%;
+}
+
+.margen-medio{
+    margin-top: 50px;
+}
+
+/* SERVICIOS */
+
+.alt-imagen {
+    height: 240px;
+    width: 100%;
+}
+
+/* CONTACTO */
+
+.fuente-nueva{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+    font-style: italic;
+}
+
+.fondo-contacto {
+    background-image: url(../imagen/moroccan-flower.png);
+    font-weight: bold;
+}
